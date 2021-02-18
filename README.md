@@ -1,2 +1,2 @@
-# storj-vendor
-Contains all of the storj repositories dependencies
+# czarcoin-vendor
+Contains all of the czarcoin repositories dependencies
